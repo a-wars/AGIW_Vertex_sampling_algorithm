@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+crawlers/
+.DS_Store
+datasets/
